@@ -13,3 +13,4 @@ My teammate and I are submitting our cluster analysis contribution in response t
 5) "Alg_Comparison.R" — we used this file to compare different clustering algorithms only and don’t need to run it since the final selected algorithm is already used in the "LBP_ProjectCode.R".
 
 The Excel files "variables_data_challenge.xlsx" and "data_challenge.xlsx" are the raw data that was given by IFCS. Please put them in the current working directory in R, along with “consolFullOrdinal.Rdata” file, when the project code file is run.
+
